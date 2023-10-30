@@ -1,0 +1,77 @@
+﻿
+@{
+    ViewBag.Title = "Visi_Misi";
+}
+
+        <nav class="gtco-nav" role="navigation">
+            <div class="gtco-container1">
+                <div class="row">
+                    <div class="col-sm-2 col-xs-12">
+                        <a href="/GRII_SOLO/Index">
+                            <img src="~/images/logoGRIITransparan.png" width="100%" />
+                        </a>
+                    </div>
+                    <div class="col-xs-10 text-right menu-1">
+                        <ul>
+                            <li><a href="/GRII_SOLO/Index">Home</a></li>
+                            <li class="has-dropdown">
+                                <a href="">Tentang Kami</a>
+                                <ul class="dropdown">
+                                    <li><a href="/GRII_SOLO/Visi_Misi">Visi dan Misi</a></li>
+                                    <li><a href="/GRII_SOLO/Pengakuan_Iman">Pengakuan Iman</a></li>
+                                    <li><a href="/GRII_SOLO/Beban_Doa">Beban Doa</a></li>
+                                    <li><a href="/GRII_SOLO/Profil_Hamba_Tuhan">Profil Hamba Tuhan</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="/GRII_SOLO/Gerakan_Grii">GERAKAN REFORMED INJILI INDONESIA</a></li>
+                            <li><a href="/GRII_SOLO/Kegiatan">KEGIATAN</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+        </nav>
+        
+        <div class="container1">
+            <img src="~/images/final-frontpage.jpg" alt="Snow" style="width:100%;">
+        </div>        
+
+        <div class="col-md-8 page-content-wrap  col-md-offset-2">
+            <div class="row">
+             <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+            <div class="col-md-12"><h1 class="hestia-title title-in-content" style="text-align:center"><strong>Visi dan Misi</strong></h1></div></div>
+            <p>Kami menyebut diri Reformed Injili, karena kami berteologi reformed dan bersemangat injili. Teologi reformed, kami percaya sebagai teologi yang berbasiskan Kedaulatan Allah dan berusaha sekuat tenaga untuk menegakkan otoritas Alkitab. Semangat injili mengingatkan bahwa sebagai orang Kristen kita harus menjadi garam dan terang dunia, mengasihi sesama yang masih hidup di dalam dosa, yang membutuhkan penebusan darah Kristus. Hal ini kami nyatakan dalam pengakuan iman kami, juga di dalam beban dan doa yang diungkapkan oleh Pdt. Stephen Tong dalam kebaktian pembukaan GRII di Jakarta.</p>
+            <p>Gereja Reformed Injili Indonesia didirikan oleh Pdt. Dr. Stephen Tong. GRII ini didirikan untuk memperjuangkan suatu mimbar yang setia kepada firman Tuhan. Oleh karena itu, GRII memberikan perhatian yang sangat khusus bagi pengajaran firman dari mimbar. Kami berusaha agar mimbar sungguh-sungguh menjadi tempat pemberitaan firman yang bertanggung jawab, yang didasarkan pada eksposisi Firman Tuhan secara cermat, dan menghindarkan diri dari penyalahgunaan mimbar untuk kepentingan pribadi atau mengeruk kekayaan duniawi dan hal sekuler lainnya.</p>
+            <p>Keberadaan GRII di manapun diharapkan bisa menjadi berkat bagi semua orang kristen di sekitar tempat itu. Oleh karena itu, GRII tidak pernah berpikir bahwa gereja ini hanya ada dan berdiri untuk satu golongan orang Kristen, tetapi selalu berjuang agar apa yang kami lakukan bisa menjadi berkat bagi sebanyak mungkin orang dengan lingkup yang seluas mungkin.</p>
+            <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+        </div>
+
+<script>
+
+    const loadVideo = (iframe) => {
+        const cid = "UCdg5YIfbsRMQrXpHBX1y1YQ";
+        const channelURL = encodeURIComponent(`https://www.youtube.com/feeds/videos.xml?channel_id=${cid}`)
+        const reqURL = `https://api.rss2json.com/v1/api.json?rss_url=${channelURL}`;
+
+        fetch(reqURL)
+            .then(response => response.json())
+            .then(result => {
+                console.log(result)
+                const videoNumber = iframe.getAttribute('vnum')
+                const link = result.items[videoNumber].link;
+                const id = link.substr(link.indexOf("=") + 1);
+                iframe.setAttribute("src", `https://youtube.com/embed/${id}?controls=0&autoplay=1`);
+            })
+            .catch(error => console.log('error', error));
+    }
+
+    const iframes = document.getElementsByClassName('latestVideoEmbed');
+    for (let i = 0, len = iframes.length; i < len; i++) {
+        loadVideo(iframes[i]);
+    }
+
+</script>
+
+
+
+

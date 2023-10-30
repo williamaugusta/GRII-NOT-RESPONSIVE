@@ -1,0 +1,216 @@
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\GRIISOLO.dll.config
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\GRIISOLO.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\GRIISOLO.pdb
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\csc.exe
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\csc.exe.config
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\csc.rsp
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\csi.exe
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\csi.exe.config
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\csi.rsp
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\Microsoft.Managed.Core.targets
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\System.AppContext.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\System.Collections.Immutable.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\System.Console.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\System.Globalization.Calendars.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\System.IO.Compression.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\System.IO.FileSystem.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\System.Net.Http.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\System.Net.Sockets.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\System.Reflection.Metadata.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\System.ValueTuple.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\System.Xml.XmlDocument.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\System.Xml.XPath.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\vbc.exe
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\vbc.exe.config
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\vbc.rsp
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\VBCSCompiler.exe
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\roslyn\VBCSCompiler.exe.config
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\Microsoft.Web.Infrastructure.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\System.Web.Helpers.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\System.Web.Mvc.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\System.Web.Razor.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\System.Web.Webpages.Deployment.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\System.Web.Webpages.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\System.Web.Webpages.Razor.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\System.Web.Razor.xml
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\System.Web.Webpages.xml
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\System.Web.Webpages.Deployment.xml
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\System.Web.Webpages.Razor.xml
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\System.Web.Helpers.xml
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\System.Web.Mvc.xml
+D:\GRII SOLO\GRIISOLO\GRIISOLO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GRII SOLO\GRIISOLO\GRIISOLO\obj\Debug\GRIISOLO.csproj.AssemblyReference.cache
+D:\GRII SOLO\GRIISOLO\GRIISOLO\obj\Debug\GRIISOLO.csproj.CoreCompileInputs.cache
+D:\GRII SOLO\GRIISOLO\GRIISOLO\obj\Debug\GRIISOLO.csproj.CopyComplete
+D:\GRII SOLO\GRIISOLO\GRIISOLO\obj\Debug\GRIISOLO.dll
+D:\GRII SOLO\GRIISOLO\GRIISOLO\obj\Debug\GRIISOLO.pdb
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\GRIISOLO.dll.config
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\GRIISOLO.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\GRIISOLO.pdb
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\csc.exe
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\csc.exe.config
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\csc.rsp
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\csi.exe
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\csi.exe.config
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\csi.rsp
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\Microsoft.Managed.Core.targets
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\System.AppContext.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\System.Collections.Immutable.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\System.Console.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\System.Globalization.Calendars.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\System.IO.Compression.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\System.IO.FileSystem.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\System.Net.Http.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\System.Net.Sockets.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\System.Reflection.Metadata.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\System.ValueTuple.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\System.Xml.XmlDocument.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\System.Xml.XPath.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\vbc.exe
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\vbc.exe.config
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\vbc.rsp
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\VBCSCompiler.exe
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\roslyn\VBCSCompiler.exe.config
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\Microsoft.Web.Infrastructure.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\System.Web.Helpers.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\System.Web.Mvc.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\System.Web.Razor.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\System.Web.Webpages.Deployment.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\System.Web.Webpages.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\System.Web.Webpages.Razor.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\System.Web.Razor.xml
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\System.Web.Webpages.xml
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\System.Web.Webpages.Deployment.xml
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\System.Web.Webpages.Razor.xml
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\System.Web.Helpers.xml
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\System.Web.Mvc.xml
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\obj\Debug\GRIISOLO.csproj.CoreCompileInputs.cache
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\obj\Debug\GRIISOLO.csproj.CopyComplete
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\obj\Debug\GRIISOLO.dll
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\obj\Debug\GRIISOLO.pdb
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\GRIISOLO.dll.config
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\GRIISOLO.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\GRIISOLO.pdb
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\csc.exe
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\csc.exe.config
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\csc.rsp
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\csi.exe
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\csi.exe.config
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\csi.rsp
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\System.AppContext.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\System.Collections.Immutable.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\System.Console.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\System.Globalization.Calendars.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\System.IO.Compression.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\System.IO.FileSystem.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\System.Net.Http.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\System.Net.Sockets.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\System.Reflection.Metadata.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\System.ValueTuple.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\System.Xml.XPath.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\vbc.exe
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\vbc.exe.config
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\vbc.rsp
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\VBCSCompiler.exe
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\roslyn\VBCSCompiler.exe.config
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\System.Web.Helpers.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\System.Web.Mvc.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\System.Web.Razor.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\System.Web.Webpages.Deployment.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\System.Web.Webpages.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\System.Web.Webpages.Razor.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\System.Web.Razor.xml
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\System.Web.Webpages.xml
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\System.Web.Webpages.Deployment.xml
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\System.Web.Webpages.Razor.xml
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\System.Web.Helpers.xml
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\System.Web.Mvc.xml
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\obj\Debug\GRIISOLO.csproj.AssemblyReference.cache
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\obj\Debug\GRIISOLO.csproj.CoreCompileInputs.cache
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\obj\Debug\GRIISOLO.csproj.CopyComplete
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\obj\Debug\GRIISOLO.dll
+D:\Work\Github\GRII_SOLO_NEW\GRIISOLO\obj\Debug\GRIISOLO.pdb
+D:\GRII SOLO\GRIISOLO\GRII_SOLO\GRIISOLO\obj\Debug\GRIISOLO.csproj.AssemblyReference.cache
